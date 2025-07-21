@@ -20,3 +20,7 @@ export const clearControls = () => ({
 export const clearSearch = () => ({
   type: SET_SEARCH,
 });
+
+export const clearSearchh = () => ({
+  type: SET_SEARCHg,
+});
